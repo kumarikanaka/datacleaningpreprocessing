@@ -1,7 +1,7 @@
 1. Import the Dataset
 Open Excel.
 
-Go to File → Open → Browse and select your .csv file (e.g., Superstore_Sales.csv).
+Go to File → Open → Browse and select your .csv file 
 
 2. Inspect the Data
 Scroll through the dataset to:
